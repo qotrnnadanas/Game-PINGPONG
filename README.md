@@ -8,7 +8,7 @@ Proyek "Game Ping Pong" menggunakan bahasa pemrograman Processing untuk membuat 
 2. **Clone Repositori:**
    - Clone repositori ini ke komputer Anda menggunakan perintah:
      ```
-     git clone https://github.com/qotrnnadanas/Ping-Pong.git
+     git clone https://github.com/qotrnnadanas/Game-PINGPONG.git
      ```
    
 3. **Buka Proyek:**
